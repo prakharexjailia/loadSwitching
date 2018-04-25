@@ -5,3 +5,4 @@
 # connect loads.
 # enter time in format of hh:mm, dd/mm/yyyy.
 # enter the number of loads connected through relay module. Relay logic is -ve.
+# Flash Switchcode_Final.ino file code to your ardunio.
